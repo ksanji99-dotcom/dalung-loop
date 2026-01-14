@@ -20,8 +20,6 @@ dalung-loop/
 ├── README.md
 └── LICENSE
 
-name: Build Dalung Loop APK
-
 on:
   push:
     branches: [ "main" ]
