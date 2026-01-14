@@ -1,3 +1,25 @@
+dalung-loop/
+├── .github/
+│   └── workflows/
+│       └── android.yml
+├── app/
+│   ├── src/main/
+│   │   ├── java/com/dalung/loop/MainActivity.kt
+│   │   ├── res/layout/activity_main.xml
+│   │   └── AndroidManifest.xml
+│   └── build.gradle
+├── gradle/
+│   └── wrapper/
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
+├── build.gradle
+├── settings.gradle
+├── gradlew
+├── gradlew.bat
+├── gradle.properties
+├── README.md
+└── LICENSE
+
 name: Build Dalung Loop APK
 
 on:
